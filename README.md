@@ -8,8 +8,6 @@ This repository contains a Python-based AT command interface application with a 
 * **Serial Communication:** Establishes a serial connection with the device.
 * **COM Port Selection:** Allows users to select the desired COM port from a list of available ports.
 * **Device Information:** Displays device information, including serial number (DSN) and battery level (if supported by the device).
-* **Command History:** (To be implemented) Stores a history of previously sent commands for easy recall.
-* **Input Validation:** (To be implemented) Validates user input to prevent incorrect commands from being sent.
 * **Clear Output:** Allows users to clear the output display.
 * **Automatic Centering:** The application window is automatically centered on the screen.
 
